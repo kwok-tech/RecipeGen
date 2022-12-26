@@ -9,7 +9,7 @@ First, I preprocess the image to prepare it for analysis by converting the image
 The `requests` library to send an HTTP request to the website's search API and parse the resulting HTML or JSON data to extract the search results.
 
 Plans for the future:
-Creating a front-end interface with android studio
+Creating a front-end interface with Ionic Framework and some type of node or angular js
 ~ Allows the user to take photos of multiple receipts to add to personal `ingredients` list
 ~ Allows manual addition to the `ingredients` list
 ~ Allows deletion from personal `ingredients` list
